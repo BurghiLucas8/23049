@@ -1,0 +1,58 @@
+#Grey-text {
+    background-color: #353A40;
+    padding-left: 18px;
+    padding-top: 18px;
+    padding-bottom: 25px;
+}
+
+.textos-y-botones {
+    margin-right: 10px;
+
+}
+.oradores {
+    padding: 0 !important;
+}
+
+#endpage {
+    background: linear-gradient(to right,#1C3643,#1D5270 ) !important;
+    height: 13vh;
+}
+footer nav li {
+    margin-right: 75px;
+}
+footer nav li a {
+    color: white !important;
+}
+
+footer section button {
+    background-color: #96C93E !important;
+    color: white !important;
+}
+#footertitle {
+    font-size: small;
+}
+
+INTENTO
+
+.container {
+    margin-top: 50px;
+}
+
+form {
+    padding: 20px;
+}
+
+.btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+.btn-success:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+}
+
+#charla {
+    text-decoration: underline dotted;
+}
+
