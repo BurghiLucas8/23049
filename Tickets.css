@@ -1,0 +1,29 @@
+.container {
+    padding: 0;
+}
+
+#endpage {
+    background: linear-gradient(to right,#1C3643,#1D5270 ) !important;
+}
+
+.tickets {
+    color: #97C93E !important;
+}
+
+.botones {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+.BotónB {
+    background-color: #96C93E !important;
+    border-color: #96C93E !important;
+    color: white !important;
+}
+.BotónR {
+    background-color: #96C93E !important;
+    border-color: #96C93E !important;
+    color: white;
+}
